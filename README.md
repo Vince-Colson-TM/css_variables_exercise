@@ -23,7 +23,7 @@ In this exercise, you will refactor a given CSS file by replacing hardcoded valu
 - Replace all hardcoded values in the CSS with `var(--your-variable-name)`.  
 
 ✅ **What to do?**  
-- Replace at least **colors, font sizes, and border radii** with variables.  
+- Replace at least **colors, font sizes, and border radius** with variables.  
 - Ensure all elements still look the same after refactoring.  
 
 ---

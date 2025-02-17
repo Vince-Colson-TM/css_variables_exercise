@@ -18,8 +18,8 @@ In this exercise, you will refactor a given CSS file by replacing hardcoded valu
 ---
 
 ### 2️⃣ Refactor with CSS Variables  
-- Identify **repeated values** in `styles.css` (e.g., colors, font sizes, paddings).  
-- Define these values as **CSS variables** inside `:root`.  
+- Identify **repeated values** (and values that might be repeated in the future) in `styles.css` (e.g., colors, font sizes, paddings).  
+- Define these values as **CSS variables** inside `:root` using logical naming.  
 - Replace all hardcoded values in the CSS with `var(--your-variable-name)`.  
 
 ✅ **What to do?**  
